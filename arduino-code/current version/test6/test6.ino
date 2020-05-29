@@ -7,9 +7,9 @@
 #include <WiFiUdp.h>
 
 //########################ตั้งค่า wifi และ webhost #######################
-const char* ssid     = "Rawliet";
-const char* password = "34073408";
-const char* host = "192.168.0.103"; //replace it with your webhost url google cloud server 34.92.225.62 local 192.168.0.103
+const char* ssid     = "ชื่อ WIFI";
+const char* password = "รหัสผ่าน WIFI";
+const char* host = "xxx.xxx.xxx.xxx"; //replace it with your webhost url google cloud server 34.92.225.62 local 192.168.0.103
 String path;
 
 //#################################################
