@@ -1,6 +1,6 @@
 วิธีลงตัวเว็บ
 
-นำfolder projectcontrol ลงไปใน folder www โปรแกรท appserv
+นำfolder projectcontrol ลงไปใน folder www โปรแกรม appserv
 จากนั้น import file pjcontrol.sql ที่ phpmyadmin
 
 DONE*
@@ -15,7 +15,7 @@ TridentTD_LineNotify  version 3.0.1 by TridentTD miniNodeMCU
 ArduinoJson version 6.11.2 by Benoit Blanchon
 NTPClient version 3.2.0 by Fabrice Weinberg
 
-แก้โค๊ด ตัวชื่อ wifi รหัส wifi แล้วก็ host หรือ ip server 
+แก้โค๊ด ตัวชื่อ wifi รหัส wifi แล้วก็ host ip server 
 อัพโหลดโค๊ด
 DONE*
 
