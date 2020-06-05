@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost
--- Generation Time: May 16, 2020 at 02:04 PM
+-- Generation Time: Jun 05, 2020 at 11:57 AM
 -- Server version: 8.0.17
 -- PHP Version: 7.3.10
 
@@ -978,7 +978,7 @@ CREATE TABLE `users` (
 
 INSERT INTO `users` (`userid`, `username`, `password`, `fname`, `lname`, `email`, `picture`, `date`, `status`) VALUES
 (1, 'admin', 'admin', 'admin', '', 'utopia@hotmail.com', '12.jpg', '2020-01-12 14:30:49', 'R'),
-(16, 'user1', '111', 'warayooth', 'yeeleemor', 'utopia@hotmail.com', '65749977_2537902299770284_7173470359352508416_n.jpg', '2020-01-12 14:30:49', ''),
+(16, 'user1', '111', 'fasfasf', 'asfasfs', 'utopia@hotmail.com', '65749977_2537902299770284_7173470359352508416_n.jpg', '2020-01-12 14:30:49', ''),
 (17, 'user2', '123', 'www', 'www', 'www@hotmail.com', '', '2020-01-12 14:30:49', 'U');
 
 --
