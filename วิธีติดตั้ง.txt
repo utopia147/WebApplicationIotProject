@@ -2,7 +2,7 @@
 
 นำfolder projectcontrol ลงไปใน folder www โปรแกรม appserv
 จากนั้น import file pjcontrol.sql ที่ phpmyadmin
-
+แก้ไข line token โดยการสมัคร line notify แล้วเอา token มาใส่ไว้บนเว็บ
 DONE*
 
 อัพโค๊ดลงบอร์ด
